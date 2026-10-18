@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/blaze-and-blade)**.
+
 Traducción al **español de España** de *Blaze & Blade: Eternal Quest* (PlayStation, 1998), el
 RPG de acción de T&E Soft para hasta cuatro jugadores, ambientado en la Tierra Prohibida de
 Foresia. Se ha traducido desde la versión europea en inglés.
